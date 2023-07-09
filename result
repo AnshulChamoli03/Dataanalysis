@@ -1,0 +1,31 @@
+Linear regression
+Mean: 0.7525277645093377
+Standard deviation : 0.043133429168497446
+
+desicion Tree Regressor
+Mean: 0.864033574102382
+Standard deviation : 0.03576655650383797
+
+Random Forest Regressor
+Mean: 0.6272902284132869
+Standard deviation : 0.03646355737325808
+
+Gradient Boosting Regressor
+Mean: 0.6961524677718793
+Standard deviation : 0.03131711228473869
+
+Elastic Net
+Mean: 0.8863140934682099
+Standard deviation : 0.03761570381077424
+
+SGDRegressor
+Mean: 0.7531548516359734
+Standard deviation : 0.04070044552090947
+
+Kernel Ridge
+Mean: 5.937280696251568
+Standard deviation : 0.04820629978646705
+
+Bayseion Ridge
+Mean: 0.7521602008920132
+Standard deviation : 0.04245853171270203
